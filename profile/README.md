@@ -1,10 +1,17 @@
 # Ascendancy Systems
+***
 
-**Independent Research · Knowledge Architecture · Systems Theory · Cognitive Technologies**
+**Independent Research** • **Knowledge Architecture** • **Systems Theory** • **Cognitive Technologies**
 
-[Visit the Front Desk](https://ascendancy-systems.github.io/front-desk/) · [Browse the directory](https://ascendancy-systems.github.io/front-desk/#directory) · [Explore the institutional map](https://ascendancy-systems.github.io/front-desk/#map)
+***
 
+###### _The Institution_
 <img width="2172" height="724" alt="Ascendancy Systems Art Deco Banner" src="https://github.com/user-attachments/assets/2eae2e4b-d806-4d13-873f-3e920a7885d7" />
+
+***
+```
+
+```
 
 ## I. Orientation
 
@@ -13,6 +20,13 @@ Ascendancy Systems is an independent research and development program concerned 
 The program investigates how knowledge is constituted, structured, related, represented, and made operative—across theoretical, computational, and human domains.
 
 Our work spans foundational research, interdisciplinary frameworks, knowledge infrastructure, and experimental computational systems.
+
+***
+
+###### _The Structure_
+<img width="2172" height="724" alt="Ascendancy Banner" src="https://github.com/user-attachments/assets/bd6e4104-b3f8-4d07-8912-a111afba2a58" />
+
+***
 
 ## II. Fields of Inquiry
 
@@ -35,6 +49,13 @@ Ascendancy Systems develops research across several intersecting domains:
 > The development and exploration of interfaces, AI-assisted knowledge environments, and experimental technologies connecting theoretical architecture with practical implementation.
 
 These domains are interdependent, though each retains its own questions, methods, and developmental trajectory.
+
+***
+
+###### _The Observatory_
+<img width="2172" height="724" alt="Art Deco Observatory Star Emblem" src="https://github.com/user-attachments/assets/ab90dff0-a3b0-4f83-b8ff-3954d6b85a77" />
+
+***
 
 ## III. Research & Development
 
@@ -99,55 +120,105 @@ Vaults, repositories, field notes, and empirical work
 - Research & Empirics
 - Repositories
 
+***
+
+###### _The Threshold_
+<img width="2172" height="724" alt="Doorway_Small" src="https://github.com/user-attachments/assets/51f2ce34-5764-49b7-831b-8473d9b4f102" />
+
 ## IV. Development Status
 
-The program is developing foundational manuscripts, architectural specifications, and computational experiments. The Front Desk links available public resources and marks entries that offer a description only.
+The Ascendancy Research Program is under __active development__. 
 
-### The Meta-Gauge — Public Orientation Instrument
+Its research encompasses foundational manuscripts, theoretical frameworks, architectural specifications, and emerging technological experiments.
 
-[![GMG-A experimental spatial reference pose](https://raw.githubusercontent.com/Ascendancy-Systems/meta-gauge/main/assets/gmg-a-reference-pose-v0.2.png)](https://ascendancy-systems.github.io/meta-gauge/)
+Research publications, technical projects, and supporting resources will be introduced progressively as they become ready for public presentation.
 
-MG-001 carries the public assessment record. Its experimental spatial assembly, GMG-A, lets visitors inspect a simulated arrangement of four ring planes. The reference image and the interactive viewer use the same [versioned pose](https://github.com/Ascendancy-Systems/meta-gauge/blob/main/config/gmg-a-reference-pose-v0.2.json).
+The public presence of Ascendancy Systems represents a developing expression of a larger body of ongoing work.
 
-[Open the demonstrator](https://ascendancy-systems.github.io/meta-gauge/) · [Read the MG-001 record and EF-001 assessment](https://github.com/Ascendancy-Systems/.github/blob/main/profile/META-GAUGE.md) · [Read the working specifications](https://github.com/Ascendancy-Systems/meta-gauge/tree/main/specifications)
+***
+
+```
+```
+
+
+***
+
+
+###### _The Meta-Gauge — Public Orientation Instrument_
+
+![GMG-A experimental spatial reference pose](https://raw.githubusercontent.com/Ascendancy-Systems/meta-gauge/main/assets/gmg-a-reference-pose-v0.2.png)
+
+_MG-001 is the registered public Meta-Gauge. GMG-A is its experimental spatial implementation._
+
+<sub>GMG-A v0.2 · Geometric simulation from a versioned pose. EF-001 is documented separately in the instrument record.</sub>
+
+[Open the interactive GMG-A demonstrator](https://ascendancy-systems.github.io/meta-gauge/)
+
+[View the Meta-Gauge repository](https://github.com/Ascendancy-Systems/meta-gauge)
+
+[View the GMG-A source pose and projection](https://github.com/Ascendancy-Systems/meta-gauge/blob/main/config/gmg-a-reference-pose-v0.2.json)
+
+[Read the MG-001 operational record v0.2 and EF-001 assessment](https://github.com/Ascendancy-Systems/.github/blob/main/profile/META-GAUGE.md)
+
+[Read the working specifications](https://github.com/Ascendancy-Systems/meta-gauge/tree/main/specifications)
+
+
+***
+
+
+```
+```
+
+***
 
 ## V. Public Presence
 
-### Website
+### **Website**
 
-The [Front Desk](https://ascendancy-systems.github.io/front-desk/) is open for visitors. The full institutional website is in development.
+_Institutional homepage in development._
 
-### GitHub
+[Visit the Front Desk](https://ascendancy-systems.github.io/front-desk/) · [Directory](https://ascendancy-systems.github.io/front-desk/#directory) · [Map](https://ascendancy-systems.github.io/front-desk/#map)
 
-The [repository index](https://github.com/Ascendancy-Systems/.github) identifies the maintainer’s starting point for each public surface. [Browse the organization’s repositories](https://github.com/orgs/Ascendancy-Systems/repositories).
+### **GitHub**
 
-## VI. Stewardship
+[Browse Ascendancy Systems repositories](https://github.com/orgs/Ascendancy-Systems/repositories)
 
-### _Constitutional Architect_ & _Steward_
+[Repository guide](https://github.com/Ascendancy-Systems/.github)
+
+Additional publication channels may be introduced as the program develops.
+
+```
+
+```
+***
+
+###### _Continuity_
+<img width="2172" height="724" alt="Art Deco Celestial Knowledge Observatory" src="https://github.com/user-attachments/assets/331fdccd-8d54-40af-ace2-b41aafc73413" />
+
+## VI. Stewardship:
+
+### _Constitutional Architect_ & _Steward_:
 
 **Neodoxent** — neodoxent@ascendancy.systems
 
 > Stewardship of Ascendancy Systems encompasses the continuity of its research, the integrity of its developing architecture, and the preservation and responsible advancement of its intellectual and technological works.
 
+***
+```
+
+
+
+```
+***
+
 _Architecture establishes the conditions of inquiry; inquiry extends beyond the architecture that presently contains it_.
 
-<details>
-
-<summary>Institutional artwork · Structure, Observatory, Threshold, Continuity, and the Double Star</summary>
-
-<img width="2172" height="724" alt="Ascendancy Banner" src="https://github.com/user-attachments/assets/bd6e4104-b3f8-4d07-8912-a111afba2a58" />
-
-<img width="2172" height="724" alt="Art Deco Observatory Star Emblem" src="https://github.com/user-attachments/assets/ab90dff0-a3b0-4f83-b8ff-3954d6b85a77" />
-
-<img width="2172" height="724" alt="Doorway_Small" src="https://github.com/user-attachments/assets/51f2ce34-5764-49b7-831b-8473d9b4f102" />
-
-<img width="2172" height="724" alt="Art Deco Celestial Knowledge Observatory" src="https://github.com/user-attachments/assets/331fdccd-8d54-40af-ace2-b41aafc73413" />
-
+###### _The Pillars, the Doorway, the Starfield, and the Double Star_
 <img width="2172" height="724" alt="Doorway_Large" src="https://github.com/user-attachments/assets/06f3c7ba-e1ea-40e0-aec4-ead8a3e65344" />
 
-</details>
+_Ascendancy Systems_ — _Independent Research & Development_
 
-**Ascendancy**
-
-Meta-Civilizational Framework Architecture<br>
-A Recursive Meaning-Operating Environment
+___Ascendancy___
+> Meta-Civilizational Framework Architecture
+> 
+> A Recursive Meaning-Operating Environment
