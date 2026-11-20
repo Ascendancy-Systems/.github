@@ -5,7 +5,7 @@
 
 ---
 
-[View the current snapshot](https://github.com/Ascendancy-Systems/.github/blob/main/profile/README.md#the-meta-gauge--public-orientation-instrument)
+[View the source-driven MG-001 display](./assets/meta-gauge-current.png) · [Explore the GMG-A spatial simulation](https://ascendancy-systems.github.io/meta-gauge/)
 
 ---
 
@@ -32,7 +32,7 @@ It is a display of documented states, not an independent source of authority or 
 
 [Open the interactive GMG-A demonstrator](https://ascendancy-systems.github.io/meta-gauge/)
 
-[View the Meta-Gauge repository and specifications](https://github.com/Ascendancy-Systems/meta-gauge)
+[Read the working specifications](https://github.com/Ascendancy-Systems/meta-gauge/tree/main/specifications) · [Return to the Front Desk](https://ascendancy-systems.github.io/front-desk/)
 
 ## II. Assessment Summary
 
