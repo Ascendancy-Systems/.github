@@ -21,9 +21,9 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SIGNAL = ROOT / "profile/signals/meta-gauge-mg-001.json"
-DEFAULT_TEMPLATE = ROOT / "profile/assets/meta-gauge-v0.1.svg"
-DEFAULT_SVG = ROOT / "profile/assets/meta-gauge-current.svg"
-DEFAULT_PNG = ROOT / "profile/assets/meta-gauge-current.png"
+DEFAULT_TEMPLATE = ROOT / "assets/gauges/meta-gauge-v0.1.svg"
+DEFAULT_SVG = ROOT / "assets/gauges/meta-gauge-current.svg"
+DEFAULT_PNG = ROOT / "assets/gauges/meta-gauge-current.png"
 
 EXPECTED_KEYS = {
     "schema_version",
@@ -193,7 +193,7 @@ def render_png(svg_bytes: bytes, width: int = 960) -> bytes:
         import cairosvg
     except ImportError as exc:
         raise RuntimeError(
-            "PNG rendering requires requirements-meta-gauge.txt"
+            "PNG rendering requires scripts/requirements.txt"
         ) from exc
     return cairosvg.svg2png(bytestring=svg_bytes, output_width=width)
 
