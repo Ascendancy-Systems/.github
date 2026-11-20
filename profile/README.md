@@ -145,17 +145,19 @@ The public presence of Ascendancy Systems represents a developing expression of 
 
 ###### _The Meta-Gauge — Public Orientation Instrument_
 
-![Ascendancy Systems Meta-Gauge MG-001](https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/profile/assets/meta-gauge-current.png)
+![GMG-A experimental spatial reference pose](https://raw.githubusercontent.com/Ascendancy-Systems/meta-gauge/main/assets/gmg-a-reference-pose-v0.2.png)
 
-_An instrument of orientation, evidence, continuity, and dependency awareness._
+_MG-001 is the registered public Meta-Gauge. GMG-A is its experimental spatial implementation._
 
-<sub>MG-001 · v0.2 — Source-driven public display. EF-001 connected; no live telemetry.</sub>
+<sub>GMG-A v0.2 · Geometric simulation from a versioned pose. EF-001 is documented separately in the instrument record.</sub>
 
-[View the current vector instrument](./assets/meta-gauge-current.svg)
+[Open the interactive GMG-A demonstrator](https://ascendancy-systems.github.io/meta-gauge/)
 
-[View the preserved v0.1 vector instrument](./assets/meta-gauge-v0.1.svg)
+[View the Meta-Gauge repository](https://github.com/Ascendancy-Systems/meta-gauge)
 
-[View the instrumentation manual](./META-GAUGE.md)
+[View the GMG-A source pose and projection](https://github.com/Ascendancy-Systems/meta-gauge/blob/main/config/gmg-a-reference-pose-v0.2.json)
+
+[Read the MG-001 operational record v0.2 and EF-001 assessment](https://github.com/Ascendancy-Systems/.github/blob/main/profile/META-GAUGE.md)
 
 
 ***
@@ -170,11 +172,11 @@ _An instrument of orientation, evidence, continuity, and dependency awareness._
 
 ### **Website**
 
-[ascendancy.systems](https://ascendancy.systems) — _Under development_
+_Institutional homepage in development._
 
 ### **GitHub**
 
-[Ascendancy-Systems](https://www.github.com/Ascendancy-Systems) — Research and development repositories
+[Browse Ascendancy Systems repositories](https://github.com/orgs/Ascendancy-Systems/repositories)
 
 Additional publication channels may be introduced as the program develops.
 
