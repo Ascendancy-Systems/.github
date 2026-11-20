@@ -5,7 +5,7 @@
 
 ---
 
-[View the instrument](https://github.com/Ascendancy-Systems/.github/blob/main/profile/README.md#the-meta-gauge--public-orientation-instrument)
+[View the snapshot](https://github.com/Ascendancy-Systems/.github/blob/main/profile/README.md#the-meta-gauge--public-orientation-instrument)
 
 ---
 
