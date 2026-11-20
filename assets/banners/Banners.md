@@ -22,7 +22,7 @@ The [organization profile](../../profile/README.md) displays these six images in
 ## Square emblems
 
 - [Ascendancy Double Star](./Ascendancy_Double_Star.png) · 512 × 512
-- [Ascendancy Double Star Avatar Clean 512](./Ascendancy_Double_Star_Avatar_Clean_512.png) · 512 × 512
+- [Ascendancy Double Star Avatar Clean 512](./Ascendancy_Double_Star_Avatar_Clean_512.png) · 512 × 512 · [Front Desk emblem](https://github.com/Ascendancy-Systems/front-desk/blob/main/assets/ascendancy-double-star.png)
 - [double star](./double_star.png) · 400 × 400
 - [Ornate Verdigris Ascendancy Star Emblem](./Ornate%20Verdigris%20Ascendancy%20Star%20Emblem.png) · 1254 × 1254
 - [Patinated Teal and Gold Star Emblem](./Patinated%20Teal%20and%20Gold%20Star%20Emblem.png) · 1254 × 1254
