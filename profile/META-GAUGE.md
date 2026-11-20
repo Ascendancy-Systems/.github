@@ -5,7 +5,7 @@
 
 ---
 
-[View the source-driven MG-001 display](./assets/meta-gauge-current.png) · [Explore the GMG-A spatial simulation](https://ascendancy-systems.github.io/meta-gauge/)
+[View the source-driven MG-001 display](../assets/gauges/meta-gauge-current.png) · [Explore the GMG-A spatial simulation](https://ascendancy-systems.github.io/meta-gauge/)
 
 ---
 
@@ -168,13 +168,13 @@ EF-001 is an epistemic source comparison. It does not establish a longitudinal m
 
 **Renderer:** [render_meta_gauge.py](../scripts/render_meta_gauge.py)
 
-**Generated SVG:** [meta-gauge-current.svg](./assets/meta-gauge-current.svg)
+**Generated SVG:** [meta-gauge-current.svg](../assets/gauges/meta-gauge-current.svg)
 
-**Generated mobile PNG:** [meta-gauge-current.png](./assets/meta-gauge-current.png)
+**Generated mobile PNG:** [meta-gauge-current.png](../assets/gauges/meta-gauge-current.png)
 
-**Preserved v0.1 SVG:** [meta-gauge-v0.1.svg](./assets/meta-gauge-v0.1.svg)
+**Preserved v0.1 SVG:** [meta-gauge-v0.1.svg](../assets/gauges/meta-gauge-v0.1.svg)
 
-**Preserved v0.1 mobile PNG:** [ascendancy-meta-gauge-v0.1-mobile.png](./assets/ascendancy-meta-gauge-v0.1-mobile.png)
+**Preserved v0.1 mobile PNG:** [ascendancy-meta-gauge-v0.1-mobile.png](../assets/gauges/ascendancy-meta-gauge-v0.1-mobile.png)
 
 **Current state:** EF-001 drives the Epistemic Fix display. The other three registers retain unknown or unassessed states. No live telemetry is represented.
 

@@ -6,7 +6,7 @@
 ***
 
 ###### _The Institution_
-<img width="2172" height="724" alt="Ascendancy Systems Art Deco Banner" src="https://github.com/user-attachments/assets/2eae2e4b-d806-4d13-873f-3e920a7885d7" />
+<img width="2172" height="724" alt="Ascendancy Systems beneath a classical pediment framed by columns" src="https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/assets/banners/Ascendancy%20Systems%20Art%20Deco%20Banner.png" />
 
 ***
 ```
@@ -24,7 +24,7 @@ Our work spans foundational research, interdisciplinary frameworks, knowledge in
 ***
 
 ###### _The Structure_
-<img width="2172" height="724" alt="Ascendancy Banner" src="https://github.com/user-attachments/assets/bd6e4104-b3f8-4d07-8912-a111afba2a58" />
+<img width="2172" height="724" alt="Ascendancy Banner" src="https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/assets/banners/Ascendancy%20Banner.svg" />
 
 ***
 
@@ -53,7 +53,7 @@ These domains are interdependent, though each retains its own questions, methods
 ***
 
 ###### _The Observatory_
-<img width="2172" height="724" alt="Art Deco Observatory Star Emblem" src="https://github.com/user-attachments/assets/ab90dff0-a3b0-4f83-b8ff-3954d6b85a77" />
+<img width="2172" height="724" alt="An eight-pointed star centered in a circular observatory window" src="https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/assets/banners/Art%20Deco%20Observatory%20Star%20Emblem.png" />
 
 ***
 
@@ -123,7 +123,7 @@ Vaults, repositories, field notes, and empirical work
 ***
 
 ###### _The Threshold_
-<img width="2172" height="724" alt="Doorway_Small" src="https://github.com/user-attachments/assets/51f2ce34-5764-49b7-831b-8473d9b4f102" />
+<img width="2172" height="724" alt="A distant illuminated doorway beneath the double star" src="https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/assets/banners/Doorway_Small.png" />
 
 ## IV. Development Status
 
@@ -193,7 +193,7 @@ Additional publication channels may be introduced as the program develops.
 ***
 
 ###### _Continuity_
-<img width="2172" height="724" alt="Art Deco Celestial Knowledge Observatory" src="https://github.com/user-attachments/assets/331fdccd-8d54-40af-ace2-b41aafc73413" />
+<img width="2172" height="724" alt="A gold star above an observatory opening onto a city and the night sky" src="https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/assets/banners/Art%20Deco%20Celestial%20Knowledge%20Observatory.png" />
 
 ## VI. Stewardship:
 
@@ -214,7 +214,7 @@ Additional publication channels may be introduced as the program develops.
 _Architecture establishes the conditions of inquiry; inquiry extends beyond the architecture that presently contains it_.
 
 ###### _The Pillars, the Doorway, the Starfield, and the Double Star_
-<img width="2172" height="724" alt="Doorway_Large" src="https://github.com/user-attachments/assets/06f3c7ba-e1ea-40e0-aec4-ead8a3e65344" />
+<img width="2172" height="724" alt="A tall illuminated doorway between columns beneath the double star" src="https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/assets/banners/Doorway_Large.png" />
 
 _Ascendancy Systems_ — _Independent Research & Development_
 

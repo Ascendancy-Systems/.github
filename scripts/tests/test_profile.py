@@ -3,7 +3,7 @@ import re
 import unittest
 from pathlib import Path
 
-PROFILE = Path(__file__).resolve().parents[1] / "profile"
+PROFILE = Path(__file__).resolve().parents[2] / "profile"
 
 
 class ProfileTests(unittest.TestCase):
