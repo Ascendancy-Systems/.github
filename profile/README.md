@@ -153,6 +153,8 @@ _An instrument of orientation, evidence, continuity, and dependency awareness._
 
 [View the vector instrument](./assets/meta-gauge-v0.1.svg)
 
+[View the instrumentation manual](./META-GAUGE.md)
+
 
 ***
 
