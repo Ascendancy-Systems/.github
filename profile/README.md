@@ -136,6 +136,34 @@ The public presence of Ascendancy Systems represents a developing expression of 
 
 ***
 
+```
+```
+
+
+***
+
+###### _The Meta-Gauge — Public Orientation Instrument_
+
+<p align="center">
+  <img
+    src="./assets/meta-gauge-v0.1.svg"
+    alt="Ascendancy Systems Meta-Gauge MG-001. Static instrument showing four unassessed or unverified research-orientation signals."
+    width="100%"
+  />
+</p>
+
+_An instrument of orientation, evidence, continuity, and dependency awareness._
+
+<sub>MG-001 · v0.1 — Static public display. Signal sources not yet connected.</sub>
+
+***
+
+
+```
+```
+
+***
+
 ## V. Public Presence
 
 ### **Website**
