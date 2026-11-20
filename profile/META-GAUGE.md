@@ -13,12 +13,12 @@
 
 | Property | Reading |
 |---|---|
-| Version | 0.2 |
-| Mode | Source-driven display |
+| Operational record version | 0.2 |
+| Mode | Source-driven status display |
 | Signal connection | EF-001 connected |
 | Last assessment | 2026-11-20 (provisional) |
 | Authority | Display only |
-| Spatial implementation | GMG-A experimental demonstrator |
+| Spatial implementation | GMG-A experimental demonstrator · Working Draft v0.2 |
 
 ---
 
@@ -164,17 +164,17 @@ EF-001 is an epistemic source comparison. It does not establish a longitudinal m
 
 ## V. Implementation
 
-**Authorized signal:** `profile/signals/meta-gauge-mg-001.json`
+**Authorized signal:** [meta-gauge-mg-001.json](./signals/meta-gauge-mg-001.json)
 
-**Renderer:** `scripts/render_meta_gauge.py`
+**Renderer:** [render_meta_gauge.py](../scripts/render_meta_gauge.py)
 
-**Generated SVG:** `profile/assets/meta-gauge-current.svg`
+**Generated SVG:** [meta-gauge-current.svg](./assets/meta-gauge-current.svg)
 
-**Generated mobile PNG:** `profile/assets/meta-gauge-current.png`
+**Generated mobile PNG:** [meta-gauge-current.png](./assets/meta-gauge-current.png)
 
-**Preserved v0.1 SVG:** `profile/assets/meta-gauge-v0.1.svg`
+**Preserved v0.1 SVG:** [meta-gauge-v0.1.svg](./assets/meta-gauge-v0.1.svg)
 
-**Preserved v0.1 mobile PNG:** `profile/assets/ascendancy-meta-gauge-v0.1-mobile.png`
+**Preserved v0.1 mobile PNG:** [ascendancy-meta-gauge-v0.1-mobile.png](./assets/ascendancy-meta-gauge-v0.1-mobile.png)
 
 **Current state:** EF-001 drives the Epistemic Fix display. The other three registers retain unknown or unassessed states. No live telemetry is represented.
 
@@ -188,17 +188,11 @@ The EF-001 assessment, signal JSON, original and generated SVG/PNG files, Python
 
 ### Experimental spatial implementation
 
-GMG-A supplies genuinely transforming geometry through independently posed ring planes, front-hemisphere occlusion, ring-attached markers, camera-independent instrument state, and a movable observer reticle. The interactive and static GMG-A views consume the same explicit state file and orthographic projection.
+GMG-A renders independently posed ring planes with front-hemisphere occlusion, ring-attached markers, camera-independent ring geometry, and a movable observer-relative reticle. The interactive and static GMG-A views consume the same explicit state file and orthographic projection.
 
 That state is a geometric simulation. It is not generated from EF-001, and it does not claim alignment, coherence, confidence, direction, or research telemetry. Target lock and two-target comparison remain proposed capabilities rather than completed functions.
 
-**Interactive demonstrator:** https://ascendancy-systems.github.io/meta-gauge/
-
-**Source repository:** https://github.com/Ascendancy-Systems/meta-gauge
-
-**Versioned pose:** https://github.com/Ascendancy-Systems/meta-gauge/blob/main/config/gmg-a-reference-pose-v0.2.json
-
-**Working specification v0.2:** https://github.com/Ascendancy-Systems/meta-gauge/blob/main/specifications/GMG-A_spatial_perceptual_relational_specification_working_draft_v0.2.md
+[Versioned reference pose](https://github.com/Ascendancy-Systems/meta-gauge/blob/main/config/gmg-a-reference-pose-v0.2.json) · [GMG-A Working Draft v0.2](https://github.com/Ascendancy-Systems/meta-gauge/blob/main/specifications/GMG-A_spatial_perceptual_relational_specification_working_draft_v0.2.md)
 
 ---
 

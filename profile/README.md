@@ -147,9 +147,9 @@ The public presence of Ascendancy Systems represents a developing expression of 
 
 ![GMG-A experimental spatial reference pose](https://raw.githubusercontent.com/Ascendancy-Systems/meta-gauge/main/assets/gmg-a-reference-pose-v0.2.png)
 
-_A registered public instrument with an experimental spatial implementation._
+_MG-001 is the registered public Meta-Gauge. GMG-A is its experimental spatial implementation._
 
-<sub>MG-001 · registered instrument identity / GMG-A · experimental geometric demonstrator. Versioned simulation; no live telemetry and no EF-001 angle mapping.</sub>
+<sub>GMG-A v0.2 · Geometric simulation from a versioned pose. EF-001 is documented separately in the instrument record.</sub>
 
 [Open the interactive GMG-A demonstrator](https://ascendancy-systems.github.io/meta-gauge/)
 
@@ -157,11 +157,7 @@ _A registered public instrument with an experimental spatial implementation._
 
 [View the GMG-A source pose and projection](https://github.com/Ascendancy-Systems/meta-gauge/blob/main/config/gmg-a-reference-pose-v0.2.json)
 
-[View the preserved MG-001 v0.2 EF-001 display](./assets/meta-gauge-current.svg)
-
-[View the preserved MG-001 v0.1 vector instrument](./assets/meta-gauge-v0.1.svg)
-
-[View the instrumentation manual](./META-GAUGE.md)
+[Read the MG-001 operational record v0.2 and EF-001 assessment](https://github.com/Ascendancy-Systems/.github/blob/main/profile/META-GAUGE.md)
 
 
 ***
@@ -176,11 +172,11 @@ _A registered public instrument with an experimental spatial implementation._
 
 ### **Website**
 
-[ascendancy.systems](https://ascendancy.systems) — _Under development_
+_Institutional homepage in development._
 
 ### **GitHub**
 
-[Ascendancy-Systems](https://www.github.com/Ascendancy-Systems) — Research and development repositories
+[Browse Ascendancy Systems repositories](https://github.com/orgs/Ascendancy-Systems/repositories)
 
 Additional publication channels may be introduced as the program develops.
 
