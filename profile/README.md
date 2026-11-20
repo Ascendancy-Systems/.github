@@ -59,44 +59,69 @@ These domains are interdependent, though each retains its own questions, methods
 
 ## III. Research & Development
 
-Foundational/Ethical Layer:
-- Perceptual Ethics
-- Regulative and Normative Ethics
+Ascendancy Systems conducts interdisciplinary research across a continuum of theoretical, architectonic, semantic, and technological inquiry.
 
-Cognitive-Architectural Layer:
-- Interface Architecture
-- Emotional Architecture
-- Psychospatial architecture
+The following fields represent principal directions of investigation and development. Their relationships are often recursive and interdisciplinary; the groupings presented here serve as an orientation to the research program rather than a finalized taxonomy.
 
-Embodiment Layer:
-- Aesthetic Poetics
+### Foundations & Ethics
+Perceptual, regulative, and normative inquiry
+
+> Inquiry into perception, ethical regulation, normative relations, and the principles through which cognitive and systemic activity may be understood and evaluated.
+
+- _Perceptual Ethics_
+- _Regulative Ethics_
+
+### Systems & Dynamics
+Cybernetics, paradox, and systemic relations
+
+> The investigation of systemic relationships, recursive organization, paradox, and the dynamics of interconnected structures.
+
+- _Latticeal Cybernetics_,
+- _Paradox Network Systems Theory_
+
+### Architectonics & Knowledge Architecture
+Structural frameworks and architectures of cognition and experience
+
+> Research concerned with the constitution, organization, relation, and interaction of architectures across knowledge, cognition, and experience.
+
 - Architectonics
-- Field Semantics
-
-Recursive Meta-Layer: (in conjunction...)
-- Governing Architecture
-- Institutes and Institutions
-
-Dynamics:
-- Latticeal Cybernetics
-- Paradox Network Systems Theory
-
-Technical-Experimental Layer:
-- Repositories
-- Field Notes
-- Obsidian Vaults
-- Research & Empirics
-
-Architectural Layer:
 - Knowledge Architecture
-- Recursive Governance
+- _Interface Architecture_
+- Emotional Architecture
+- Psychospatial Architecture
 
-Semantic Layer:
+### Semantics, Poetics & Embodiment
+Meaning, expression, aesthetic form, and registers
+
+> Inquiry into meaning, interpretation, aesthetic expression, and the articulation of experience through semantic and poetic structures.
+
+- __Field Semantics__
+- _Aesthetic Poetics_
 - Custodial-Architectonic Registers
 - Various Poetics
 
+### Governance & Meta-Architecture
+Recursive governance and institutional structures
+
+> The investigation and development of governing structures, recursive coordination, and the institutional organization of complex systems.
+
+- Governing Architecture
+- Recursive Governance
+- Institutes and Institutions
+
+### Research Infrastructure & Experimentation
+Vaults, repositories, field notes, and empirical work
+
+> The instruments, environments, and practices supporting research, documentation, investigation, and technological development.
+
+- Obsidian Vaults
+- Field Notes
+- Research & Empirics
+- Repositories
+
 ***
 
+###### _The Threshold_
 <img width="2172" height="724" alt="Doorway_Small" src="https://github.com/user-attachments/assets/51f2ce34-5764-49b7-831b-8473d9b4f102" />
 
 ## IV. Development Status
