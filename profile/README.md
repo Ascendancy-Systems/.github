@@ -145,13 +145,15 @@ The public presence of Ascendancy Systems represents a developing expression of 
 
 ###### _The Meta-Gauge — Public Orientation Instrument_
 
-![Ascendancy Systems Meta-Gauge MG-001](https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/profile/assets/ascendancy-meta-gauge-v0.1-mobile.png)
+![Ascendancy Systems Meta-Gauge MG-001](https://raw.githubusercontent.com/Ascendancy-Systems/.github/main/profile/assets/meta-gauge-current.png)
 
 _An instrument of orientation, evidence, continuity, and dependency awareness._
 
-<sub>MG-001 · v0.1 — Static public display. Signal sources not yet connected.</sub>
+<sub>MG-001 · v0.2 — Source-driven public display. EF-001 connected; no live telemetry.</sub>
 
-[View the vector instrument](./assets/meta-gauge-v0.1.svg)
+[View the current vector instrument](./assets/meta-gauge-current.svg)
+
+[View the preserved v0.1 vector instrument](./assets/meta-gauge-v0.1.svg)
 
 [View the instrumentation manual](./META-GAUGE.md)
 
