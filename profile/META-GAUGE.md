@@ -18,6 +18,7 @@
 | Signal connection | EF-001 connected |
 | Last assessment | 2026-11-20 (provisional) |
 | Authority | Display only |
+| Spatial implementation | GMG-A experimental demonstrator |
 
 ---
 
@@ -26,6 +27,12 @@
 MG-001 is an instrument for presenting defined aspects of the research program's orientation, evidentiary standing, continuity, and operational readiness.
 
 It is a display of documented states, not an independent source of authority or an autonomous system of measurement.
+
+**Identity relationship:** MG-001 is the registered public instrument—its identity, mission, evidence rules, and public record. The **Gyroscopic Meta-Gauge Assembly (GMG-A)** is an experimental spatial and perceptual implementation of MG-001. GMG-A does not create a second evidentiary authority, and its simulated ring poses do not reinterpret EF-001.
+
+[Open the interactive GMG-A demonstrator](https://ascendancy-systems.github.io/meta-gauge/)
+
+[View the Meta-Gauge repository and specifications](https://github.com/Ascendancy-Systems/meta-gauge)
 
 ## II. Assessment Summary
 
@@ -172,6 +179,26 @@ EF-001 is an epistemic source comparison. It does not establish a longitudinal m
 **Current state:** EF-001 drives the Epistemic Fix display. The other three registers retain unknown or unassessed states. No live telemetry is represented.
 
 The renderer transforms already recorded readings. It does not evaluate the research, approve findings, or change their evidentiary status.
+
+### Legacy renderer limitation
+
+The MG-001 v0.2 renderer is a bounded, source-driven **label renderer**. It validates the authorized EF-001 record and deterministically substitutes status, source, and date text into the preserved v0.1 SVG. Its circular illustration does not change geometry in response to the signal. It therefore remains an incomplete prototype of a measurement gauge, even though its evidence handling is deliberately constrained and useful.
+
+The EF-001 assessment, signal JSON, original and generated SVG/PNG files, Python renderer, tests, and GitHub Actions workflow remain preserved as the authoritative record of that implementation. They are retained for history, source integrity, and regression testing until a reviewed replacement demonstrates equivalent or stronger safeguards.
+
+### Experimental spatial implementation
+
+GMG-A supplies genuinely transforming geometry through independently posed ring planes, front-hemisphere occlusion, ring-attached markers, camera-independent instrument state, and a movable observer reticle. The interactive and static GMG-A views consume the same explicit state file and orthographic projection.
+
+That state is a geometric simulation. It is not generated from EF-001, and it does not claim alignment, coherence, confidence, direction, or research telemetry. Target lock and two-target comparison remain proposed capabilities rather than completed functions.
+
+**Interactive demonstrator:** https://ascendancy-systems.github.io/meta-gauge/
+
+**Source repository:** https://github.com/Ascendancy-Systems/meta-gauge
+
+**Versioned pose:** https://github.com/Ascendancy-Systems/meta-gauge/blob/main/config/gmg-a-reference-pose-v0.2.json
+
+**Working specification v0.2:** https://github.com/Ascendancy-Systems/meta-gauge/blob/main/specifications/GMG-A_spatial_perceptual_relational_specification_working_draft_v0.2.md
 
 ---
 
