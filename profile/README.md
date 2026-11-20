@@ -69,14 +69,14 @@ Perceptual, regulative, and normative inquiry
 > Inquiry into perception, ethical regulation, normative relations, and the principles through which cognitive and systemic activity may be understood and evaluated.
 
 - _Perceptual Ethics_
-- _Regulative Ethics_
+- _Regulative Ethics_ & _Normative Ethics_
 
 ### Systems & Dynamics
 Cybernetics, paradox, and systemic relations
 
 > The investigation of systemic relationships, recursive organization, paradox, and the dynamics of interconnected structures.
 
-- _Latticeal Cybernetics_,
+- _Latticeal Cybernetics_
 - _Paradox Network Systems Theory_
 
 ### Architectonics & Knowledge Architecture
@@ -98,7 +98,7 @@ Meaning, expression, aesthetic form, and registers
 - __Field Semantics__
 - _Aesthetic Poetics_
 - Custodial-Architectonic Registers
-- Various Poetics
+- Various Literature
 
 ### Governance & Meta-Architecture
 Recursive governance and institutional structures
@@ -115,6 +115,7 @@ Vaults, repositories, field notes, and empirical work
 > The instruments, environments, and practices supporting research, documentation, investigation, and technological development.
 
 - Obsidian Vaults
+- Software and Tools
 - Field Notes
 - Research & Empirics
 - Repositories
