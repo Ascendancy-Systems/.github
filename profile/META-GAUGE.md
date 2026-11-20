@@ -60,3 +60,87 @@ Future Infotech implementations may consume validated signal records and provide
 
 *An instrument reveals what may be known from its sources; it does not manufacture certainty.*
 
+---
+
+# Meta-Gauge MG-001
+---
+**Ascendancy Systems · Infotech**
+
+*Public Orientation Instrument — Operational Record*
+
+---
+
+## Instrument State
+
+| Property | Reading |
+|---|---|
+| Version | 0.1 |
+| Mode | Manual |
+| Signal connection | Not connected |
+| Last assessment | Not yet assessed |
+| Authority | Display only |
+
+---
+
+## I. Constitutional North
+
+**State:** Unassessed
+
+**Purpose:** Establish the declared reference against which
+the public research program is oriented.
+
+**Evidence:** Not yet registered.
+
+---
+
+## II. Epistemic Fix
+
+**State:** Unverified
+
+**Purpose:** Determine whether published claims are
+supported by identifiable research sources.
+
+**Evidence:** Not yet registered.
+
+---
+
+## III. Continuity & Drift
+
+**State:** Unassessed
+
+**Scope:** Public GitHub profile
+
+**Purpose:** Identify significant discrepancies between
+published descriptions and approved research references.
+
+**Evidence:** Not yet registered.
+
+---
+
+## IV. Dependency Readiness
+
+**State:** Unassessed
+
+**Purpose:** Identify verified prerequisites and blockers
+to the next selected operational task.
+
+**Evidence:** Not yet registered.
+
+---
+
+## Operating Principle
+
+Unknown states remain visible.
+
+Readings require source identification, assessment method,
+review date, and supporting evidence.
+
+No numerical measurement may be published without a
+defined and validated method.
+
+---
+
+*The instrument does not establish truth.*
+*It reports what can be established from its sources.*
+
+
