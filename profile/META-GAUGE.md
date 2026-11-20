@@ -5,6 +5,10 @@
 
 ---
 
+[View the instrument](https://github.com/Ascendancy-Systems/.github/blob/main/profile/README.md#the-meta-gauge--public-orientation-instrument)
+
+---
+
 ## I. Purpose
 
 MG-001 is an instrument for presenting defined aspects of the research program's orientation, evidentiary standing, continuity, and operational readiness.
