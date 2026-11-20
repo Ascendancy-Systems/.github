@@ -20,15 +20,31 @@ from scripts.render_meta_gauge import (
 class MetaGaugeRendererTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.valid_data = json.loads(DEFAULT_SIGNAL.read_text(encoding="utf-8"))
+        # Keep expected outcomes independent of the live assessment.
+        cls.valid_data = {
+            "schema_version": 1,
+            "instrument": "MG-001",
+            "id": "EF-001",
+            "register": "epistemic-fix",
+            "scope": "public-research-orientation",
+            "state": "provisionally-supported",
+            "assessed_at": "2025-01-15",
+            "assessment_type": "manual-source-comparison",
+            "evidence_visibility": "private",
+            "authority_verified": False,
+            "display_authority": "display-only",
+        }
         cls.template = DEFAULT_TEMPLATE.read_text(encoding="utf-8")
+
+    def test_repository_signal_validates(self):
+        load_signal(DEFAULT_SIGNAL)
 
     def test_provisional_signal_renders_ef001_without_mutating_template(self):
         original = self.template
         svg = render_svg(original, validate_signal(copy.deepcopy(self.valid_data)))
         self.assertIn(">PROVISIONAL</text>", svg)
         self.assertIn("EF-001 · Public orientation claim", svg)
-        self.assertIn("SOURCE  /  EF-001 · 2026-11-20", svg)
+        self.assertIn("SOURCE  /  EF-001 · 2025-01-15", svg)
         self.assertIn("MG–001   /   v0.2", svg)
         self.assertEqual(original, self.template)
         self.assertIn(">UNVERIFIED</text>", self.template)
@@ -39,6 +55,33 @@ class MetaGaugeRendererTests(unittest.TestCase):
         svg = render_svg(self.template, validate_signal(data))
         self.assertIn(">UNKNOWN</text>", svg)
         self.assertNotIn(">PROVISIONAL</text>", svg)
+
+    def test_signal_updates_regenerate_svg_and_png(self):
+        cases = (
+            ({"assessed_at": "2025-02-01"}, ">PROVISIONAL</text>", "2025-02-01"),
+            ({"state": "unknown"}, ">UNKNOWN</text>", "2025-01-15"),
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            signal_path = root / "signal.json"
+            svg_path = root / "current.svg"
+            png_path = root / "current.png"
+            signal_path.write_text(json.dumps(self.valid_data), encoding="utf-8")
+            generate(signal_path, DEFAULT_TEMPLATE, svg_path, png_path)
+            original_png = png_path.read_bytes()
+
+            for update, expected_status, expected_date in cases:
+                with self.subTest(update=update):
+                    signal_path.write_text(
+                        json.dumps(self.valid_data | update), encoding="utf-8"
+                    )
+                    generate(signal_path, DEFAULT_TEMPLATE, svg_path, png_path)
+                    svg = svg_path.read_text(encoding="utf-8")
+                    png = png_path.read_bytes()
+                    self.assertIn(expected_status, svg)
+                    self.assertIn(f"SOURCE  /  EF-001 · {expected_date}", svg)
+                    self.assertEqual(png[:8], b"\x89PNG\r\n\x1a\n")
+                    self.assertNotEqual(png, original_png)
 
     def test_unknown_state_is_rejected_instead_of_becoming_confident(self):
         data = copy.deepcopy(self.valid_data)

@@ -4,10 +4,10 @@
   "id": "EF-001",
   "register": "epistemic-fix",
   "scope": "public-research-orientation",
-  "state": "provisionally-supported",
-  "assessed_at": "2026-11-20",
   "assessment_type": "manual-source-comparison",
   "evidence_visibility": "private",
   "authority_verified": false,
-  "display_authority": "display-only"
+  "display_authority": "display-only",
+  "state": "provisionally-supported",
+  "assessed_at": "2026-11-20"
 }
