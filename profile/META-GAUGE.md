@@ -117,6 +117,73 @@ published descriptions and approved research references.
 
 ---
 
+### Assessment 001
+
+Statement Under Review:
+
+> The program investigates how knowledge is constituted, structured, related, represented, and made operative—across theoretical, computational, and human domains.
+
+**Subject:** Public research orientation
+
+**Scope:** One README sentence against two research sources
+
+**Published reference:** profile/README.md
+
+**Review date:** 2026-11-20
+
+**Method:** Direct comparison of the public description
+with the selected research reference.
+
+**Finding:** These sources provide substantial support for the sentence as a description of research direction
+
+However, they don't establish that each research direction has been completed, empirically validated, or implemented. That is the distinction.
+
+**Reading:** Provisionally Aligned
+
+**Evidence:** Internal documentation; public verification outstanding
+
+**Next action:** Confirm the current authoritative research reference and identify supporting material suitable for public citation.
+
+**Recommendation:** Retain sentence for now
+
+---
+
+### EF-001 — Institutional Research Orientation
+
+**Assessment date:** 2026-11-20  
+**Assessment type:** Manual source comparison  
+**Subject:** Public research orientation  
+**Source statement:** `profile/README.md` — I. Orientation
+
+#### Finding
+
+The selected public statement is substantially consistent
+with two available internal research descriptions.
+
+It characterizes the program's investigative direction
+without asserting that its research outcomes have been
+completed or independently validated.
+
+#### Reading
+
+**Status:** Provisionally Supported
+
+**Evidence:** Two internal working references,
+not presently available for public inspection.
+
+**Limitations:**
+- Current canonical authority has not been confirmed.
+- One reviewed source is provisional.
+- Independent verification has not been established.
+- Assessment applies only to the selected statement.
+
+**Disposition:** Retain the existing wording.
+
+**Next review trigger:** Confirmation or revision of
+the authoritative institutional research statement.
+
+---
+
 ## IV. Dependency Readiness
 
 **State:** Unassessed
